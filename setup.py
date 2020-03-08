@@ -42,7 +42,7 @@ copy_overlays()
 copy_notebooks()
 
 setup(
-	name= "neo_pixel",
+	name= "sd_image_processing",
 	version= "1.1",
 	url= 'https://github.com/ATaylorCEngFIET/pynq_sd_image_processing.git',
 	license = 'Apache Software License',
