@@ -9,7 +9,7 @@ board = os.environ['BOARD']
 repo_board_folder = f'boards/{board}/sd_image_processing'
 board_notebooks_dir = os.environ['PYNQ_JUPYTER_NOTEBOOKS']
 hw_data_files = []
-ovl_dest = 'sd_image_processing'
+ovl_dest = '/pynq/overlays/sd_image_processing'
 
 
 # check whether board is supported
